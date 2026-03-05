@@ -12,7 +12,7 @@ with st.sidebar:
     st.divider()
     start_btn = st.button("🚀 Run Extraction", use_container_width=True)
 
-st.title("🏋️‍♂️ High-Capacity PDF Extractor")
+st.title("🏋️‍♂️ Fitness Finder")
 
 # Main uploader
 uploaded_file = st.file_uploader("Upload PDF or ZIP", type=["pdf", "zip"])
